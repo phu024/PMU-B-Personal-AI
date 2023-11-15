@@ -1,1 +1,1 @@
-# PMU-B-Personal-AI-
+#  PMU-B Thailand Coding Academy (Personal AI)
