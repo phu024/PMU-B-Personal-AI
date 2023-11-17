@@ -23,8 +23,8 @@ Read more about me at [GitHub Profile](https://github.com/phu024)
 
 ## 🙌 Contact me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Phuwadon%20Decharam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuwadon-dec)](https://www.linkedin.com/in/phuwadon-dec)
-[![Facebook Badge](https://img.shields.io/badge/-Phuwadon%20Decharam-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/phuwadon.dec)](https://www.facebook.com/phuwadon.dec)
-[![Gmail Badge](https://img.shields.io/badge/-Phuwadon%20Decharam-blue?style=flat-square&logo=gmail&logoColor=white&link=https://www.facebook.com/phuwadon.dec)](mailto:phuwadon.dec@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Phuwadon%20Decharam-%230077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phuwadon-dec)](https://www.linkedin.com/in/phuwadon-dec)
+[![Facebook Badge](https://img.shields.io/badge/-Phuwadon%20Decharam-%231877F2?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/phuwadon.dec)](https://www.facebook.com/phuwadon.dec)
+[![Gmail Badge](https://img.shields.io/badge/-Phuwadon%20Decharam-D14836?style=flat-square&logo=gmail&logoColor=white&link=https://www.facebook.com/phuwadon.dec)](mailto:phuwadon.dec@gmail.com)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Last+updated%3A+17%2F11%2F2023%2C+11.30PM)](https://git.io/typing-svg)
